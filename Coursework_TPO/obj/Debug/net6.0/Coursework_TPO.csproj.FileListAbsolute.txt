@@ -1,0 +1,15 @@
+D:\Коды VS\Coursework_TPO\Coursework_TPO\bin\Debug\net6.0\Coursework_TPO.exe
+D:\Коды VS\Coursework_TPO\Coursework_TPO\bin\Debug\net6.0\Coursework_TPO.deps.json
+D:\Коды VS\Coursework_TPO\Coursework_TPO\bin\Debug\net6.0\Coursework_TPO.runtimeconfig.json
+D:\Коды VS\Coursework_TPO\Coursework_TPO\bin\Debug\net6.0\Coursework_TPO.dll
+D:\Коды VS\Coursework_TPO\Coursework_TPO\bin\Debug\net6.0\Coursework_TPO.pdb
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.csproj.AssemblyReference.cache
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.AssemblyInfoInputs.cache
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.AssemblyInfo.cs
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.csproj.CoreCompileInputs.cache
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.dll
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\refint\Coursework_TPO.dll
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.pdb
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\Coursework_TPO.genruntimeconfig.cache
+D:\Коды VS\Coursework_TPO\Coursework_TPO\obj\Debug\net6.0\ref\Coursework_TPO.dll
